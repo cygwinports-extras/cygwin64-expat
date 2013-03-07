@@ -3,7 +3,7 @@ inherit cross
 
 NAME="cygwin64-expat"
 VERSION=2.1.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="Expat XML library for Cygwin 64bit toolchain"
 DESCRIPTION="This is Expat, a C library for parsing XML, written by James Clark.
